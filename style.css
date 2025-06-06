@@ -1,0 +1,74 @@
+.nav-bar {
+    background-color: #393E46;
+}
+
+.profile {
+    border-radius: 50%;
+}
+
+.front-page {
+    background-color: #222831;
+}
+
+.name {
+    color: #fff !important;
+}
+
+.career {
+    color: #DFD0B8 !important
+}
+
+.home-photo {
+    /* border: solid 3px #948979; */
+    box-shadow: 3px 3px 5px 6px #393E46, 6px 6px 5px 6px #948979, 9px 9px 5px 6px #DFD0B8;
+    
+}
+
+.home-text {
+    border-bottom: solid 3px #948979;
+    border-left: solid 6px #948979;
+}
+
+.career-obj {
+    background-color: #393E46 !important;
+}
+
+.career-obj-text {
+    color: #fff !important;
+}
+
+.feature-icon {
+    width: 4rem;
+    height: 4rem;
+    border-radius: .75rem;
+    background-color: #DFD0B8 !important;
+}
+
+.about-text {
+    color: #222831 !important;
+}
+
+.seminar-year {
+    color: #DFD0B8 !important;
+    background-color: #222831 !important;
+    width: fit-content;
+    border-radius: 5px;
+}
+
+.contact-container {
+    background-color: #393E46 !important;
+}
+
+.contact-details {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 1rem;
+}
+
+.contact-icon {
+    background-color: #DFD0B8;
+    border-radius: 8px;
+    padding: 2px;
+    width: 1.5rem;
+}
